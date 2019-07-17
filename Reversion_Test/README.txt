@@ -21,3 +21,5 @@ After mapping the 10,000 reads to microbial genomes, we calculated the false dis
 2-3-4. The BAM files "HISAT2/UNMAPPED/UNM_ALL_R1_{bacteria|fungi|viral}/2.Sorted_{bacteria|fungi|viral}.bam" include mapped results and have been used to calculate FDR.
 
 2-3-5. The file "this_accuracy.txt" is the result of the reversion test, which includes mapped reads at genus level, species level, and locus level.
+
+NOTE: "RND_1-10.tar.gz" includes files for only 10 runs out of 1,000 runs. The full dataset and results (2.53GB) is downloadable from https://openlooper.hgc.jp/opencontami/help_oct.html
