@@ -1,5 +1,5 @@
 
-The reversion test
+The Reversion Test: Can we reposition the reads to their orignal genome? 
 
 1. General Procedure
 We randomly selected ten species belonging to distinct genera and prepared 1,000 100-base pair (bp) DNA fragments from the genome of a selected species (i.e. 1,000 x10 species / run).
